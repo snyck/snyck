@@ -20,8 +20,8 @@ Desarrollador apasionado por el aprendizaje continuo en tecnologías móviles y 
 *(Ancla 3-5 repos hasta arriba en tu perfil para destacarlos)*[web:3]
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=snyck&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snyck&layout=compact)
 
 ## 🌟 Intereses
 - Aprendizaje continuo en lenguajes y tecnologías nuevas.
