@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Edgar Castro Díaz
+# ¡Hola! 👋 Soy Edgar Castro
 
 Desarrollador apasionado por el aprendizaje continuo en tecnologías móviles y web. Experto en **Android (Java)**, **.NET (C#)**, **PHP** y bases de datos como PostgreSQL y MySQL. Me enfoco en optimizar procesos y crear soluciones eficientes.
 
